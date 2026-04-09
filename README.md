@@ -6,7 +6,7 @@
 
 Run the powerful Segment Anything Model 2 (SAM 2.1) on live video streams at 30+ FPS. Built for computer vision engineers and roboticists who need zero-shot, highly accurate segmentation in real-time production environments.
 
-![SAM2 Real-Time Video Segmentation Demo](assets/blackswan.gif)
+![SAM2 Real-Time Video Segmentation Demo](assets/demo.png)
 
 ## ✨ Key Features
 
